@@ -1,4 +1,4 @@
-# ParkinonsMouse
+# Parkinson's Mouse
 Ever felt you are too good at videogames?
 Ever wanted to completely fuck up your mouse usage?
 ### NOW YOU CAN!
