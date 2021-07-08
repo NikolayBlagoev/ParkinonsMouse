@@ -9,3 +9,4 @@ The first program to induce Parkinsons's
 Here in FUCK YOU INC. we believe technology shouldn't improve our lives - it should make it worse for no reason! Thus we have developed the first ever shitware.
 
 Simply run the python script or install the compiled version from one of the links:
+Windows: https://drive.google.com/file/d/1Dt2MipAsOcaIHtL59xQXYXVaoQpfMjN-/view?usp=sharing
